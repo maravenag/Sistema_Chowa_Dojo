@@ -1,0 +1,16 @@
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\bin\Debug\Prueba_SQLite.exe.config
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\bin\Debug\Prueba_SQLite.exe
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\bin\Debug\Prueba_SQLite.pdb
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\bin\Debug\System.Data.SQLite.dll
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\bin\Debug\System.Data.SQLite.xml
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.csprojResolveAssemblyReference.cache
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\MainWindow.g.cs
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\App.g.cs
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite_MarkupCompile.cache
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite_MarkupCompile.lref
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\MainWindow.baml
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.g.resources
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.Properties.Resources.resources
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.csproj.GenerateResource.Cache
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.exe
+c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.pdb
