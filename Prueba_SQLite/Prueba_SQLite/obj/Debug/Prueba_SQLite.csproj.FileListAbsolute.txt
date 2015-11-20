@@ -14,3 +14,6 @@ c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLit
 c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.csproj.GenerateResource.Cache
 c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.exe
 c:\users\matias\documents\visual studio 2015\Projects\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.pdb
+C:\Users\Gabriel alex\Documents\GitHub\Sistema_Chowa_Dojo\Prueba_SQLite\Prueba_SQLite\bin\Debug\Prueba_SQLite.exe.config
+C:\Users\Gabriel alex\Documents\GitHub\Sistema_Chowa_Dojo\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.exe
+C:\Users\Gabriel alex\Documents\GitHub\Sistema_Chowa_Dojo\Prueba_SQLite\Prueba_SQLite\obj\Debug\Prueba_SQLite.pdb

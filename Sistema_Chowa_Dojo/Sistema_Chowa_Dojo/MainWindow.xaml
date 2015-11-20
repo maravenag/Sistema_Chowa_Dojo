@@ -11,6 +11,7 @@
             <TabItem Header="Alumnos">
                 <Grid Background="#FFE5E5E5">
                     <Button x:Name="button" Content="Nuevo Alumno" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="232" Click="button_Click"/>
+                    <Button x:Name="boton_historial_med" Content="Ver Historial Médico" HorizontalAlignment="Left" Margin="412,59,0,0" VerticalAlignment="Top" Width="118" Click="boton_historial_med_Click"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Asistencia">

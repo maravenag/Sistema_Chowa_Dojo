@@ -29,5 +29,13 @@ namespace Sistema_Chowa_Dojo
             Alumno alumno = new Alumno(nombre, apellido, rut, telefono, email, direccion, 1, fecha_nac, fecha_insc);
  
         }
+        public void Ver_historial_medico()
+            //despliega historial medico
+        {
+            historial_medico historial = new historial_medico();
+            historial.Show();
+            
+        }
+
     }
 }

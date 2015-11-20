@@ -31,5 +31,10 @@ namespace Sistema_Chowa_Dojo
         {
             controlador.crearEstudiante();
         }
+
+        private void boton_historial_med_Click(object sender, RoutedEventArgs e)
+        {
+            controlador.Ver_historial_medico();
+        }
     }
 }
