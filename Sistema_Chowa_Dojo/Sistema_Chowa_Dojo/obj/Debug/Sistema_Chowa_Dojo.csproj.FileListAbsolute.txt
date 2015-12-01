@@ -1,0 +1,50 @@
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\Sistema_Chowa_Dojo.exe.config
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\Sistema_Chowa_Dojo.exe
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\Sistema_Chowa_Dojo.pdb
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.csprojResolveAssemblyReference.cache
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\MainWindow.g.cs
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\App.g.cs
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo_MarkupCompile.cache
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo_MarkupCompile.lref
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\MainWindow.baml
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.g.resources
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.Properties.Resources.resources
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.csproj.GenerateResource.Cache
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.exe
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.pdb
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\formulario_alumno.g.cs
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\formulario_alumno.baml
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\System.Data.SQLite.dll
+c:\users\matias\documents\visual studio 2015\Projects\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\System.Data.SQLite.xml
+E:\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\Sistema_Chowa_Dojo.exe.config
+E:\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.exe
+E:\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.pdb
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\Sistema_Chowa_Dojo.exe.config
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.exe
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.pdb
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\formulario_alumno.g.cs
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Historial_Ascenso.g.cs
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\App.g.cs
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo_MarkupCompile.cache
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo_MarkupCompile.lref
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\Sistema_Chowa_Dojo.exe
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\Sistema_Chowa_Dojo.pdb
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\formulario_Nueva_Lesion.g.cs
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\historial_medico.g.cs
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\formulario_alumno.baml
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Historial_Ascenso.baml
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\MainWindow.baml
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\formulario_Nueva_Lesion.baml
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\historial_medico.baml
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.g.resources
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.Properties.Resources.resources
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.csproj.GenerateResource.Cache
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\itextsharp.dll
+C:\Users\Gabriel alex\Desktop\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\itextsharp.xml
+C:\Users\Gabriel alex\Documents\GitHub\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\bin\Debug\Sistema_Chowa_Dojo.exe.config
+C:\Users\Gabriel alex\Documents\GitHub\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.exe
+C:\Users\Gabriel alex\Documents\GitHub\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\Sistema_Chowa_Dojo\obj\Debug\Sistema_Chowa_Dojo.pdb
